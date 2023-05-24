@@ -1,0 +1,6 @@
+export {default as Contacts} from './contacts.jsx'
+export {default as Catalog} from './catalog.jsx'
+export {default as AboutUs} from './about_us.jsx'
+export {default as Main} from './main.jsx'
+export {default as ShoppingCard} from './shopping_card.jsx'
+export {default as BaketEmpty} from './basketEmpty.jsx'

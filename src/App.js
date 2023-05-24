@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { useSelector } from 'react-redux'
 import {Contacts, Catalog, AboutUs, Main, ShoppingCard} from './pages';
 import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
@@ -49,6 +49,7 @@ function App() {
           <Route path="/contacts" element={<Contacts/>} />
           <Route path="/about_us" element={<AboutUs/>} />
           <Route path="/main" element={<Main/>} />
+          <Route path="/" element={<Main/>} />
           <Route path="/shopping_card" element={<ShoppingCard/>} />
           </Routes>
         </Router>

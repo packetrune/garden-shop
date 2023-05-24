@@ -1,0 +1,255 @@
+{
+    "garden":[
+        {
+            "id":"1",
+            "rating":"1",
+            "title":"Мисс Саори",
+            "description":"Hydrangea macrophylla Miss Saori",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/94372.jpg",
+            "price":"200",
+            "categoryId": "1",
+            "SubCategoryId": "1"
+        },
+        {
+            "id":"2",
+            "rating":"3",
+            "title":"Роял Ред",
+            "description":"Hydrangea macrophylla Royal Red",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/98741.jpg",
+            "price":"300",
+            "categoryId": "1",
+            "SubCategoryId": "1"
+        },
+        {
+            "id":"3",
+            "rating":"2",
+            "title":"Саксон Ратен",
+            "description":"Hydrangea macrophylla Saxon Rathen",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/a_98742_10824.jpg",
+            "price":"450",
+            "categoryId": "1",
+            "SubCategoryId": "1"
+        },
+        {
+            "id":"4",
+            "rating":"5",
+            "title":"Эрли Пинк",
+            "description":"Hydrangea macrophylla Early Pink",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/98743.jpg",
+            "price":"325",
+            "categoryId": "1",
+            "SubCategoryId": "1"
+        },
+        {
+            "id":"5",
+            "rating":"6",
+            "title":"Блэк Стил Пёрпл",
+            "description":"Hydrangea macrophylla Black Steel Purple",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/94369.jpg",
+            "price":"500",
+            "categoryId": "1",
+            "SubCategoryId": "1"
+        },
+        {
+            "id":"6",
+            "rating":"4",
+            "title":"Спайк",
+            "description":"Hydrangea macrophylla Spike",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/94374.jpg",
+            "price":"390",
+            "categoryId": "1",
+            "SubCategoryId": "1"
+        },
+        {
+            "id":"7",
+            "rating":"8",
+            "title":"Тугезер Блю",
+            "description":"Hydrangea macrophylla Together Blue",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/94375.jpg",
+            "price":"235",
+            "categoryId": "1",
+            "SubCategoryId": "1"
+        },
+        {
+            "id":"8",
+            "rating":"9",
+            "title":"Кандибел Баблгам",
+            "description":"Candibel Bubblegum",
+            "imgURL":"https://rostok-pitomnik.ru/upload/resize_cache/iblock/e7b/l4qxpfv6zvd2ta3ynu55qmwx4yh4gm1h/345_345_2/d8c23e13_46db_11ec_80fc_2cfda1e3de5d_0836fb18_46dc_11ec_80fc_2cfda1e3de5d.jpg",
+            "price":"180",
+            "categoryId": "1",
+            "SubCategoryId": "2"
+        },
+        {
+            "id":"9",
+            "rating":"2",
+            "title":"Кандибел Маршмеллоу",
+            "description":"Kcandibel Marshmallow",
+            "imgURL":"https://rostok-pitomnik.ru/upload/resize_cache/iblock/59c/9603voyk9bhcoydyctj1xz28qigwrklb/345_345_2/44cec702_46d7_11ec_80fc_2cfda1e3de5d_9edcc966_46d8_11ec_80fc_2cfda1e3de5d.jpg",
+            "price":"250",
+            "categoryId": "1",
+            "SubCategoryId": "2"
+        },
+        {
+            "id":"10",
+            "rating":"4",
+            "title":"Мэджикал Пинкербелл",
+            "description":"Magical Pinkerbell",
+            "imgURL":"https://rostok-pitomnik.ru/upload/resize_cache/iblock/376/4e5s9c3b4b8qsttgor3jgc3g4wnpyyhy/345_345_2/73b53784_200a_11eb_80d2_2cfda1e3de5d_9d204a78_200c_11eb_80d2_2cfda1e3de5d.jpg",
+            "price":"275",
+            "categoryId": "1",
+            "SubCategoryId": "2"
+        },
+        {
+            "id":"11",
+            "rating":"6",
+            "title":"Пинк Аннабель",
+            "description":"Pink Annabelle",
+            "imgURL":"https://rostok-pitomnik.ru/upload/resize_cache/iblock/607/5tr5rm1iq7apvp2f6q6bq64zwj4w8fwn/345_345_2/58f547d0_2000_11eb_80d2_2cfda1e3de5d_7258c527_2000_11eb_80d2_2cfda1e3de5d.jpg",
+            "price":"435",
+            "categoryId": "1",
+            "SubCategoryId": "2"
+        },
+        {
+            "id":"12",
+            "rating":"3",
+            "title":"Стерилис",
+            "description":"Sterilis",
+            "imgURL":"https://rostok-pitomnik.ru/upload/resize_cache/iblock/6ed/065bnlbuq8mxtivdlccyszlvb1wpwcw8/345_345_2/35a71f60_dc9d_11e6_a8b2_40618694c8e7_103c1f13_2003_11eb_80d2_2cfda1e3de5d.jpg",
+            "price":"195",
+            "categoryId": "1",
+            "SubCategoryId": "2"
+        }
+        ,
+        {
+            "id":"13",
+            "rating":"2",
+            "title":"Белая Аннабель",
+            "description":"White Annabelle",
+            "imgURL":"https://rostok-pitomnik.ru/upload/resize_cache/iblock/422/hr9tnb55pare33dnrs4x5v4fe8qbwrs7/345_345_2/1b3ae6c0_dc9d_11e6_a8b2_40618694c8e7_75896680_82b1_11ed_8c9f_00155d4c7301.jpeg",
+            "price":"250",
+            "categoryId": "1",
+            "SubCategoryId": "2"
+        } ,
+        {
+            "id":"14",
+            "rating":"7",
+            "title":"Коттон Кэнди",
+            "description":"Hydrangea serrata Cotton Candy",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/50235.jpg",
+            "price":"110",
+            "categoryId": "1",
+            "SubCategoryId": "3"
+        } ,
+        {
+            "id":"15",
+            "rating":"4",
+            "title":"Авелроз",
+            "description":"Hydrangea serrata Avelroz",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/50232.jpg",
+            "price":"235",
+            "categoryId": "1",
+            "SubCategoryId": "3"
+        } ,
+        {
+            "id":"16",
+            "rating":"9",
+            "title":"Блю Биллоу",
+            "description":"Hydrangea serrata Blue Billow",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/50233.jpg",
+            "price":"160",
+            "categoryId": "1",
+            "SubCategoryId": "3"
+        } ,
+        {
+            "id":"17",
+            "rating":"8",
+            "title":"Блю Декл",
+            "description":"Hydrangea serrata Blue Deckle",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/58277.jpg",
+            "price":"190",
+            "categoryId": "1",
+            "SubCategoryId": "3"
+        } ,
+        {
+            "id":"18",
+            "rating":"5",
+            "title":"Вирл",
+            "description":"Hydrangea serrata Veerle",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/50238.jpg",
+            "price":"210",
+            "categoryId": "1",
+            "SubCategoryId": "3"
+        } ,
+        {
+            "id":"19",
+            "rating":"7",
+            "title":"Тиара",
+            "description":"Hydrangea serrata Tiara",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/50237.jpg",
+            "price":"260",
+            "categoryId": "1",
+            "SubCategoryId": "3"
+        },
+        {
+            "id":"20",
+            "rating":"4",
+            "title":"Интермедиа",
+            "description":"Hydrangea serrata Intermedia",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/68109.jpg",
+            "price":"255",
+            "categoryId": "1",
+            "SubCategoryId": "3"
+        },
+        {
+            "id":"21",
+            "rating":"3",
+            "title":"Петите Стар",
+            "description":"Hydrangea paniculata Petite Star",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/94198.jpg",
+            "price":"360",
+            "categoryId": "1",
+            "SubCategoryId": "4"
+        },
+        {
+            "id":"22",
+            "rating":"2",
+            "title":"Пандалус",
+            "description":"Hydrangea paniculata Pandalus",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/103752.jpg",
+            "price":"145",
+            "categoryId": "1",
+            "SubCategoryId": "4"
+        },
+        {
+            "id":"23",
+            "rating":"2",
+            "title":"Пинк энд Роуз",
+            "description":"Hydrangea paniculata Pink & Rose",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/73696.jpg",
+            "price":"310",
+            "categoryId": "1",
+            "SubCategoryId": "4"
+        },
+        {
+            "id":"24",
+            "rating":"5",
+            "title":"Саммер Лав",
+            "description":"Hydrangea paniculata Summer Love",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/64494.jpg",
+            "price":"355",
+            "categoryId": "1",
+            "SubCategoryId": "4"
+        },
+        {
+            "id":"25",
+            "rating":"5",
+            "title":"Фрайз Мельба",
+            "description":"Hydrangea paniculata Fraise Melba",
+            "imgURL":"https://www.podvorje.ru/img/work/nomencl/50189.jpg",
+            "price":"325",
+            "categoryId": "1",
+            "SubCategoryId": "4"
+        }
+    ]
+}

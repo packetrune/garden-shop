@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee9a90f5.css",
+    "main.js": "/static/js/main.a242c5f5.js",
+    "static/media/rose_img.png": "/static/media/rose_img.72b008d6731c9d48989d.png",
+    "static/media/PlayfairDisplay-SemiBold.ttf": "/static/media/PlayfairDisplay-SemiBold.baf57ba0df5544f5125e.ttf",
+    "static/media/PlayfairDisplay-Medium.ttf": "/static/media/PlayfairDisplay-Medium.d8afa483b200cadcda26.ttf",
+    "static/media/PlayfairDisplay-Bold.ttf": "/static/media/PlayfairDisplay-Bold.93cdecc21109a014b86b.ttf",
+    "static/media/PlayfairDisplay-ExtraBold.ttf": "/static/media/PlayfairDisplay-ExtraBold.18a9cdf91bf509de5642.ttf",
+    "static/media/PlayfairDisplay-Black.ttf": "/static/media/PlayfairDisplay-Black.2cae369406147e0156db.ttf",
+    "static/media/BasketEmpty.jpg": "/static/media/BasketEmpty.b9b23f4855645997e4b4.jpg",
+    "static/media/instagram.png": "/static/media/instagram.046af6041ae1fffdc4a7.png",
+    "static/media/ok.png": "/static/media/ok.ade0d1d1a21565519c84.png",
+    "static/media/ok_click.png": "/static/media/ok_click.337be6ac8ed23f407ed2.png",
+    "static/media/delete.png": "/static/media/delete.7c0c20f3fde7ef66b735.png",
+    "static/media/onin_logo.png": "/static/media/onin_logo.c02c1abcc685ae6e607c.png",
+    "index.html": "/index.html",
+    "main.ee9a90f5.css.map": "/static/css/main.ee9a90f5.css.map",
+    "main.a242c5f5.js.map": "/static/js/main.a242c5f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee9a90f5.css",
+    "static/js/main.a242c5f5.js"
+  ]
+}
